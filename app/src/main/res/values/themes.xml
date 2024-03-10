@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HookDemo" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="Theme.HookDemo" parent="Base.Theme.HookDemo" />
+</resources>
